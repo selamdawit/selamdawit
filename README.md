@@ -16,8 +16,10 @@ Hello, I'm Selam. Data Analyst with expertise in data analysis and reporting, qu
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/selamdawit/Portfolio) .
 
-Here are my case studies:
+###  🏛️ The Museum of Modern Art (MoMA) Collection Analysis
+[Insert your favorite sentence from above here]
 
+**[View Live Dashboard](https://public.tableau.com/app/profile/selam.dawit6038/viz/MoMaCollectionDashboard/Dashboard1)**
 
 ### 🛠️ Tools
 
