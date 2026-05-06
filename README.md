@@ -16,7 +16,8 @@ Hello, I'm Selam. Data Analyst with expertise in data analysis and reporting, qu
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/selamdawit/Portfolio) .
 
-Here are my case studies 
+Here are my case studies:
+
 
 ### 🛠️ Tools
 
