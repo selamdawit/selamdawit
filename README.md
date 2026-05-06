@@ -14,7 +14,7 @@ Hello, I'm Selam. Data Analyst with expertise in data analysis and reporting, qu
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/selamdawit/Portfolio).
+Welcome to my portfolio, where I showcase my projects.
 
 #### The Museum of Modern Art (MoMA) Collection Analysis
 A comprehensive data analysis and Tableau visualization project exploring MoMA’s collection history, acquisition trends, and the physical scale of nearly 200,000 artworks.
