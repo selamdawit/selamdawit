@@ -14,12 +14,19 @@ Hello, I'm Selam. Data Analyst with expertise in data analysis and reporting, qu
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my **[projects](https://github.com/selamdawit/Portfolio)** .
+Welcome to my portfolio, where I showcase my [projects](https://github.com/selamdawit/Portfolio).
 
 #### The Museum of Modern Art (MoMA) Collection Analysis
 A comprehensive data analysis and Tableau visualization project exploring MoMA’s collection history, acquisition trends, and the physical scale of nearly 200,000 artworks.
 
-**[View Live Dashboard](https://public.tableau.com/app/profile/selam.dawit6038/viz/MoMaCollectionDashboard/Dashboard1)**
+[Case study](https://github.com/selamdawit/Portfolio/blob/c5b0461edf298dd57a6e6af3eceb439a892d698f/Museum%20of%20Modern%20Art%20-%20Case%20Study/The%20Museum%20of%20Modern%20Art%20(MoMA)%20Collection.md)
+
+[View Live Dashboard](https://public.tableau.com/app/profile/selam.dawit6038/viz/MoMaCollectionDashboard/Dashboard1)
+
+#### Hospital Patient Record Analysis
+Analyzing patient journeys through data: An exploration of hospital records to uncover disparities in healthcare usage by age and race, while auditing claim costs and geographic distribution for improved operational insight.
+
+[Case study](https://github.com/selamdawit/Portfolio/blob/c5b0461edf298dd57a6e6af3eceb439a892d698f/Hospital%20Patient%20Records/Hospital%20Patient%20Record%20-%20Case%20Study.md)
 
 ### 🛠️ Tools
 
